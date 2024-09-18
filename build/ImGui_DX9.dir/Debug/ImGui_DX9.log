@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\Stanl\Desktop\project\imgui\imgui.h(64,10): error C1083: 無法開啟包含檔案: 'imconfig.h': No such file or directory
+  (編譯來源檔案 '../main.cpp')
+  
+  imgui.cpp
+C:\Users\Stanl\Desktop\project\imgui\imgui.h(64,10): error C1083: 無法開啟包含檔案: 'imconfig.h': No such file or directory
+  (編譯來源檔案 '../imgui/imgui.cpp')
+  
+  imgui_draw.cpp
+C:\Users\Stanl\Desktop\project\imgui\imgui.h(64,10): error C1083: 無法開啟包含檔案: 'imconfig.h': No such file or directory
+  (編譯來源檔案 '../imgui/imgui_draw.cpp')
+  
+  imgui_widgets.cpp
+C:\Users\Stanl\Desktop\project\imgui\imgui.h(64,10): error C1083: 無法開啟包含檔案: 'imconfig.h': No such file or directory
+  (編譯來源檔案 '../imgui/imgui_widgets.cpp')
+  
+  imgui_tables.cpp
+C:\Users\Stanl\Desktop\project\imgui\imgui.h(64,10): error C1083: 無法開啟包含檔案: 'imconfig.h': No such file or directory
+  (編譯來源檔案 '../imgui/imgui_tables.cpp')
+  
+  imgui_impl_dx9.cpp
+C:\Users\Stanl\Desktop\project\imgui\imgui.h(64,10): error C1083: 無法開啟包含檔案: 'imconfig.h': No such file or directory
+  (編譯來源檔案 '../backend/imgui_impl_dx9.cpp')
+  
+  imgui_impl_win32.cpp
+C:\Users\Stanl\Desktop\project\imgui\imgui.h(64,10): error C1083: 無法開啟包含檔案: 'imconfig.h': No such file or directory
+  (編譯來源檔案 '../backend/imgui_impl_win32.cpp')
+  
+  正在產生程式碼...
